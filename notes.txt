@@ -1,0 +1,50 @@
+emmit in visual studio code, to make template for code ( example HTML)
+! then enter : quick boiler plate code
+
+sass css used to nest css together, use live sass compiler in vs code to make main.scss --> main.css
+
+<link rel="stylesheet" href="css/main.css"> : used to intergrate css with HTML
+
+structuring things in page : top down
+
+immagine webpage like blocks
+
+container : is a bounding box 
+thinkning if it needs a bounding box
+commonly div class="wrapper"/"container"
+div is used generic used to make a 
+
+width : 100% scales img with the window 
+
+for hyperlink elements we use <a ></a>
+
+Shift+alt+down : replicated the line (copy paste)
+
+.name in vscode : will make a div with classname /name/
+
+p.name : will make <p class="name"></p>
+
+mobile first css : little amount of width
+when it comes to resposive design you start with more simple 
+mobile is striped down
+desktop has more features
+
+to fix browser to mobile view ctrl+shift+i --> console, tip left icon it will set to mobile view
+or ctrl+shift+M
+
+margin and padding two ways to define whitespace
+
+em uint : relative unit it depends on font size, use emunit to zoom, change browser it will scale well
+margin should be used in relateive unit
+
+use sans-serif as fallback font, if user does no have a font then 
+use 3 max font to force download
+
+<link > tag goes inside title
+
+font family link goes before the link to css in HTML,
+to link, go to goole fonts add font and click link, add the link to the HTML, add the code to the css
+
+for font-size : use "rem" units relative em unit 
+
+class refence in css .name
